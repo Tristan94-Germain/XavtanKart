@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/trist/Documents/GitHub/XavtanKart/ProjetReseau/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/trist/Documents/GitHub/XavtanKart/ProjetReseau/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.uasset",
+				"C:/Users/trist/Documents/GitHub/XavtanKart/ProjetReseau/Content/ThirdPerson/Blueprints/NewWidgetPreview.uasset",
+				"C:/Users/trist/Documents/GitHub/XavtanKart/ProjetReseau/Content/ThirdPerson/Blueprints/WB_EnterVehicule.uasset",
 				"C:/Users/tgermain/Documents/Unreal Projects/ProjetReseau/Content/Input/IMC_Default.uasset",
 				"C:/Users/tgermain/Documents/Unreal Projects/ProjetReseau/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/tgermain/Documents/Unreal Projects/ProjetReseau/Content/ThirdPerson/Blueprints/BP_PlayerController_Multi.uasset",
